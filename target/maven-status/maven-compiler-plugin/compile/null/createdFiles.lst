@@ -1,1 +1,4 @@
 org/acme/GreetingResource.class
+org/acme/mongodb/Fruit.class
+org/acme/mongodb/FruitResource.class
+org/acme/mongodb/FruitService.class
